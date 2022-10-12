@@ -3,7 +3,7 @@ import slack_sdk
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
 
-slack_token = '' # input token
+slack_token = 'xoxb-' # input token
 client = slack_sdk.WebClient(token=slack_token)
 
 try:
