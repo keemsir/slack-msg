@@ -1,1 +1,1 @@
-from .slack_msg import *
+from .slack_alarm import *
