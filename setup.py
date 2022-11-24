@@ -8,7 +8,7 @@ setup(
   url='https://github.com/keemsir/salck-msg',
   author='keemsir',
   author_email='keemsir@gmail.com',
-#   packages=['sla_msg'],
+  packages=['util_msg'],
   description='for alarm',
   license='keemsir',
   install_requires=[
