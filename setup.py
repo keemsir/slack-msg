@@ -12,6 +12,6 @@ setup(
   description='for alarm',
   license='keemsir',
   install_requires=[
-      'slack'
+      'slack_sdk'
   ]
 )
