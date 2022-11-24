@@ -8,7 +8,7 @@ setup(
   url='https://github.com/keemsir/salck-msg',
   author='keemsir',
   author_email='keemsir@gmail.com',
-  packages=[slack_msg'],
+  packages=['slack_msg'],
   description='for alarm',
   license='keemsir',
   install_requires=[
