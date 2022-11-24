@@ -5,7 +5,7 @@ VERSION = "0.0.2"
 setup(
   name='util_msg',
   version=VERSION,
-  url='https://github.com/keemsir/salck-msg',
+  url='https://github.com/keemsir/util-msg',
   author='keemsir',
   author_email='keemsir@gmail.com',
   packages=['util_msg'],
