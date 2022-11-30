@@ -4,5 +4,5 @@
 pip install git+https://github.com/keemsir/slack-msg.git
 
 ex)
-import slack_msg
+import util_msg
 
