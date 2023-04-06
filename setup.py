@@ -12,6 +12,7 @@ setup(
   description='for alarm',
   license='keemsir',
   install_requires=[
-      'slack_sdk'
+      'slack_sdk',
+      'python-telegram-bot==13.14'
   ]
 )
