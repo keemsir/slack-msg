@@ -11,7 +11,6 @@ ex) slack
 
 ex) telegram
 
-`from util_msg import tele_msg
+`from util_msg import tele_msg`
 
-
-tele_msg(token, id, msg)`
+`tele_msg(token, id, msg)`
