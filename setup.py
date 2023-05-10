@@ -13,6 +13,6 @@ setup(
   license='keemsir',
   install_requires=[
       'slack_sdk',
-      'python-telegram-bot==13.14'
+      'python-telegram-bot' #'python-telegram-bot==13.14'
   ]
 )
