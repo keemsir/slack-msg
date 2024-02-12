@@ -9,7 +9,7 @@ ex) slack
 
 `slack_msg(key, channel, msg)`
 
-ex) telegram
+~~ex) telegram~~ < 지원 중단
 
 `from util_msg import tele_msg`
 
